@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file3[ changed done on f3.txt in local]
+=======
+this is file3[changed done on f3.txt in remote]
+>>>>>>> b58c0d8f0bc16e104c0c839453ee77fbf3696871
